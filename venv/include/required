@@ -1,0 +1,7 @@
+pip install pandas
+pip install sklearn
+pip install sqlalchemy
+pip install streamlit
+pip install mysql.connector
+pip install pymysql
+pip install plotly
